@@ -28,17 +28,4 @@ li h5 {
 li h5:hover {
   background-color: rgb(165, 164, 164);
 }
-/* 
-body {
-  display: flex;
-  flex-flow: column;
-  height: 100%;
-}
-.list-countries{
-  
-  height: 100%;
-}
 
-.map-container{
-  flex-grow: 1;
-} */
